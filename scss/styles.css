@@ -1,0 +1,27 @@
+.container {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container form {
+  width: 100%;
+}
+
+.container form input {
+  font-size: 25px;
+}
+
+.container form button {
+  padding: 20px 50px;
+  font-weight: 600;
+  font-size: 25px;
+}
+/*# sourceMappingURL=styles.css.map */
